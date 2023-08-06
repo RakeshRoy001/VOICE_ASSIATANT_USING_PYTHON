@@ -77,6 +77,9 @@ while True:
 
     elif  'open instagram' in query:
           webbrowser.open("instagram.com") 
+
+    elif  'open twitter' in query:
+          webbrowser.open("twitter.com")
                       
 
 
